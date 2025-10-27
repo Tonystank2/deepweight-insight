@@ -11,7 +11,21 @@ Clone the repo
 git clone https://github.com/<you>/<repo-name>.git
 cd <repo-name>
 
-Run the run.py
+Run the run.exe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
