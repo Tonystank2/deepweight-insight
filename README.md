@@ -7,10 +7,7 @@ Use it to draw an ROI on a video, track the barbell (or object), visualize speed
 Quickstart
 
 Clone the repo
-
-git clone https://github.com/<you>/<repo-name>.git
-cd <repo-name>
-
+cd deepweight-insight
 Run the run.exe
 
 
