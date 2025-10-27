@@ -3,9 +3,6 @@ Barbell Tracker Pro — README
 A polished GUI tool for visual weight/barbell tracking & analytics built with OpenCV (YOLO-friendly) and PySide6.
 Use it to draw an ROI on a video, track the barbell (or object), visualize speed/acceleration/dwell heatmaps, select segments, and export an annotated video.
 
-(This README describes the main UI implemented in ui.py.) 
-
-ui
 
 Quickstart
 
